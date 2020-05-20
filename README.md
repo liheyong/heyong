@@ -1,8 +1,10 @@
-# Attentive-Group-Recommendation
+# Social-Enhanced
+Attentive Group Recommendation
 
 ## 说明
 
-该项目Fork LianHaiMiao/Attentive-Group-Recommendation
+该项目Fork LianHaiMiao/Social-Enhanced
+Attentive Group Recommendation
 
 原代码地址：https://github.com/LianHaiMiao/Attentive-Group-Recommendation
 
